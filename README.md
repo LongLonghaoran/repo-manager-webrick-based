@@ -4,6 +4,6 @@
 
 - `bundle install`
 
-- `ruby server.rb`
+- `RACK_ENV=production ruby server.rb`
 
 - `browser localhost:3000`
